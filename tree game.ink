@@ -15,6 +15,8 @@ Once upon a time...
     
     {hiTree:
       # IMAGE: images/yggdrasil.png 
+      
+      # AUDIO: Audio/Piano.wav
          "Hello"
     }
     
